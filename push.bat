@@ -7,6 +7,6 @@ git add .
 echo.
 git commit -a -m "fix json"
 echo.
-git push origin master
+git push origin main
 echo.
 pause
