@@ -19,7 +19,7 @@
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_changelog.json"
   },
   {
-    "name": "PC",
+    "name": "Windows/Mac",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/pc_changelog.json"
   }
 ]
