@@ -1,7 +1,8 @@
 [
   {
     "name": "Android 创作版",
-    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json"
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json",
+    "qrCode": "https://www.pgyer.com/app/qrcode/PNbc"
   },
   {
     "name": "Android 社区版",
