@@ -1,6 +1,22 @@
 [
   {
     "name": "Android 创作版",
-    "url": "http://www.baidu.com"
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json"
+  },
+  {
+    "name": "Android 社区版",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json"
+  },
+  {
+    "name": "Android 创作版",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json"
+  },
+  {
+    "name": "Android 创作版",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json"
+  },
+  {
+    "name": "PC",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json"
   }
 ]
