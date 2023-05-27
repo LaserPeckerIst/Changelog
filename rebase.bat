@@ -9,6 +9,6 @@ git commit -a -m "fix json"
 echo.
 git fetch
 echo.
-git rebase origin/master
+git rebase origin/main
 echo.
 pause
