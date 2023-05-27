@@ -1,0 +1,10 @@
+[
+  {
+    "name": "LP1 固件更新记录",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp1_changelog.json"
+  },
+  {
+    "name": "LP2 固件更新记录",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp2_changelog.json"
+  }
+]
