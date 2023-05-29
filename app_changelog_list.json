@@ -10,7 +10,7 @@
     "name": "Android 社区版",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_changelog.json",
     "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_rn_net_code.png",
-    "downloadUrl": "https://app.laserpecker.net/synopsis"
+    "downloadUrl": "https://app.laserpecker.net/summary"
   },
   {
     "name": "iOS 创作版",
@@ -21,7 +21,8 @@
   {
     "name": "iOS 社区版",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_changelog.json",
-    "downloadUrl": "https://software.laserpecker.net/#/mobile"
+    "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_rn_net_code.png",
+    "downloadUrl": "https://app.laserpecker.net/summary"
   },
   {
     "name": "Windows/Mac",
