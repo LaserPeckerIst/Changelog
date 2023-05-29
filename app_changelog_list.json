@@ -8,15 +8,18 @@
   },
   {
     "name": "Android 社区版",
-    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_changelog.json"
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_changelog.json",
+    "downloadUrl": "https://software.laserpecker.net/#/mobile"
   },
   {
     "name": "iOS 创作版",
-    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_pro_changelog.json"
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_pro_changelog.json",
+    "downloadUrl": "https://software.laserpecker.net/#/mobile"
   },
   {
     "name": "iOS 社区版",
-    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_changelog.json"
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_changelog.json",
+    "downloadUrl": "https://software.laserpecker.net/#/mobile"
   },
   {
     "name": "Windows/Mac",
