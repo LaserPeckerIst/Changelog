@@ -16,13 +16,15 @@
     "name": "iOS 创作版",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_pro_changelog.json",
     "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_pro_net_code.png",
-    "downloadUrl": "https://app.laserpecker.net/synopsis"
+    "downloadUrl": "https://app.laserpecker.net/synopsis",
+    "des": "支持固件:\nLP4 650~699 6500~6599 \nLX1 700~799 7000~7999"
   },
   {
     "name": "iOS 社区版",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_changelog.json",
     "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_rn_net_code.png",
-    "downloadUrl": "https://app.laserpecker.net/summary"
+    "downloadUrl": "https://app.laserpecker.net/summary",
+    "des": "支持固件:\nLP1 100～149 \nLP1-Z 150~199 1500~1599 \nLP1-Pro 200~250 \nLP1-Z Pro 250~299 \nLP2 300~399 3000～3199 3200～3299 3300～3399 \nLP3 550～599 5500～5519 5520～5549 5550～5599"
   },
   {
     "name": "Windows/Mac",
