@@ -27,6 +27,7 @@
   {
     "name": "Windows/Mac",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/pc_changelog.json",
+    "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/pc_net_code.png",
     "downloadUrl": "https://software.laserpecker.net",
     "des": "支持固件:\nLP2 314~349 373~399 \nLP3 5513~5599 550~599 \nLP4 6500~6599 650~699 \nLX1 7000~7099"
   }
