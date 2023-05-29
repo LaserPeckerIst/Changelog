@@ -4,7 +4,7 @@
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json",
     "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_pro_net_code.png",
     "downloadUrl": "https://app.laserpecker.net/synopsis",
-    "des": "支持固件:\nLP1-Z-PRO 253~269 \nLP1-Z-PRO 272~299 \nLP2 314~349 \nLP2 358~369 \nLP2 373~399 \nLP3 550~599 \nLP3 5513~5599 \nLP4 650~699 \nLP4 6500~6599 \nLX1 700~799 \nLX1 7000~7999"
+    "des": "支持固件:\nLP1-Z-PRO 253~269 272~299 \nLP2 314~349 358~369 373~399 \nLP3 550~599 5513~5599 \nLP4 650~699 6500~6599 \nLX1 700~799 7000~7999"
   },
   {
     "name": "Android 社区版",
@@ -28,6 +28,6 @@
     "name": "Windows/Mac",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/pc_changelog.json",
     "downloadUrl": "https://software.laserpecker.net",
-    "des": "支持固件:\nLP2 314~349 \nLP2 373~399 \nLP3 5513~5599 \nLP3 550~599 \nLP4 6500~6599 \nLP4 650~699 \nLX1 7000~7099"
+    "des": "支持固件:\nLP2 314~349 373~399 \nLP3 5513~5599 550~599 \nLP4 6500~6599 650~699 \nLX1 7000~7099"
   }
 ]
