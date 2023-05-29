@@ -20,6 +20,7 @@
   },
   {
     "name": "Windows/Mac",
-    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/pc_changelog.json"
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/pc_changelog.json",
+    "downloadUrl": "https://software.laserpecker.net"
   }
 ]
