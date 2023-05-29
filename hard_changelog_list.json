@@ -1,10 +1,30 @@
 [
   {
-    "name": "LP1 固件更新记录",
+    "name": "LP1",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp1_changelog.json"
   },
   {
-    "name": "LP2 固件更新记录",
+    "name": "LP1-Pro",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp1_pro_changelog.json"
+  },
+  {
+    "name": "LP1-Z",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp1_z_changelog.json"
+  },
+  {
+    "name": "LP2",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp2_changelog.json"
+  },
+  {
+    "name": "LP3",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp3_changelog.json"
+  },
+  {
+    "name": "LP4",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp4_changelog.json"
+  },
+  {
+    "name": "LX1",
+    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lx1_changelog.json"
   }
 ]
