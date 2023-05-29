@@ -2,19 +2,21 @@
   {
     "name": "Android 创作版",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json",
-    "qrCode": "https://www.pgyer.com/app/qrcode/PNbc",
-    "downloadUrl": "https://www.pgyer.com/PNbc",
+    "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_pro_net_code.png",
+    "downloadUrl": "https://app.laserpecker.net/synopsis",
     "des": "支持固件:LP1 200~259\nLP2 300~359"
   },
   {
     "name": "Android 社区版",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_changelog.json",
-    "downloadUrl": "https://software.laserpecker.net/#/mobile"
+    "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_rn_net_code.png",
+    "downloadUrl": "https://app.laserpecker.net/synopsis"
   },
   {
     "name": "iOS 创作版",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_pro_changelog.json",
-    "downloadUrl": "https://software.laserpecker.net/#/mobile"
+    "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_pro_net_code.png",
+    "downloadUrl": "https://app.laserpecker.net/synopsis"
   },
   {
     "name": "iOS 社区版",
