@@ -4,6 +4,7 @@
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_pro_changelog.json",
     "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_pro_net_code.png",
     "downloadUrl": "https://app.laserpecker.net/synopsis",
+    "logo": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/logo_ds.png",
     "des": "支持固件:\nLP1-Z-PRO 253~269 272~299 \nLP2 314~349 358~369 373~399 \nLP3 550~599 5513~5599 \nLP4 650~699 6500~6599 \nLX1 700~799 7000~7999"
   },
   {
@@ -11,6 +12,7 @@
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/android_rn_changelog.json",
     "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_rn_net_code.png",
     "downloadUrl": "https://app.laserpecker.net/summary",
+    "logo": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/logo.png",
     "des": "支持固件:\nLP1-Z 253~269 272~299 \nLP2 314~349 358~369 373~399\nLP3 550~599 5513~5599 \nLP4 650~699 6500~6599 \nLX1 700~799 7000~7999"
   },
   {
@@ -18,6 +20,7 @@
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_pro_changelog.json",
     "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_pro_net_code.png",
     "downloadUrl": "https://app.laserpecker.net/synopsis",
+    "logo": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/logo_ds.png",
     "des": "支持固件:\nLP4 650~699 6500~6599 \nLX1 700~799 7000~7999"
   },
   {
@@ -25,6 +28,7 @@
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/ios_rn_changelog.json",
     "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/android_rn_net_code.png",
     "downloadUrl": "https://app.laserpecker.net/summary",
+    "logo": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/logo.png",
     "des": "支持固件:\nLP1 100~149 \nLP1-Z 150~199 1500~1599 \nLP1-Pro 200~250 \nLP1-Z Pro 250~299 \nLP2 300~399 3000~3199 3200~3299 3300~3399 \nLP3 550~599 5500~5519 5520~5549 5550~5599"
   },
   {
@@ -32,6 +36,7 @@
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/pc_changelog.json",
     "qrCode": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/pc_net_code.png",
     "downloadUrl": "https://software.laserpecker.net",
+    "logo": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/logo.png",
     "des": "支持固件:\nLP2 314~349 373~399 \nLP3 550~599 5513~5599 \nLP4 650~699 6500~6599 \nLX1 7000~7099"
   }
 ]

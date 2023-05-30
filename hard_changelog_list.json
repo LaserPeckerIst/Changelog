@@ -1,18 +1,22 @@
 [
   {
     "name": "LP2",
+    "logo": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/L2.png",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp2_changelog.json"
   },
   {
     "name": "LP3",
+    "logo": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/L3.png",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp3_changelog.json"
   },
   {
     "name": "LP4",
+    "logo": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/L4.png",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp4_changelog.json"
   },
   {
     "name": "LX1",
+    "logo": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/res/C1.png",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lx1_changelog.json"
   }
 ]
