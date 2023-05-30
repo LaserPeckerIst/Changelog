@@ -1,17 +1,5 @@
 [
   {
-    "name": "LP1",
-    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp1_changelog.json"
-  },
-  {
-    "name": "LP1-Pro",
-    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp1_pro_changelog.json"
-  },
-  {
-    "name": "LP1-Z",
-    "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp1_z_changelog.json"
-  },
-  {
     "name": "LP2",
     "url": "https://raw.githubusercontent.com/LaserPeckerIst/Changelog/main/lp2_changelog.json"
   },
