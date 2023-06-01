@@ -1,5 +1,10 @@
 [
   {
+    "versionDate": "2023-6-1",
+    "versionName": "4.2.5",
+    "versionDes": "本次更新内容:\n- 联调友盟统计【新增功能】\n- L1抖动图雕刻1s结束异常修复【问题修复】\n- 素材界面隐藏SVG标签【问题修复】\n- GCode缩略图显示异常修复【问题修复】"
+  },
+  {
     "versionDate": "2023-5-24",
     "versionName": "4.2.4",
     "versionDes": "本次更新内容:\n暂无"
