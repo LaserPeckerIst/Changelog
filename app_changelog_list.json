@@ -13,7 +13,7 @@
     "qrCode": "/res/android_rn_net_code.png",
     "downloadUrl": "https://app.laserpecker.net/summary",
     "logo": "/res/logo.png",
-    "des": "支持固件:\nLP1-Z 253~269 272~299 \nLP2 314~349 358~369 373~399\nLP3 550~599 5513~5599 \nLP4 650~699 6500~6599 \nLX1 700~799 7000~7999"
+    "des": "支持固件:\nLP1 100~149 \nLP1Pro 200~249 \nLP1-Z 150~199 250-299 253~269 272~299 \nLP2 300~349 350~369 370~399 \nLP3 550~599 5500~5510 5511~5599 \nLP4 650~699 6500~6599 \nLX1 700~799 7000~7999"
   },
   {
     "name": "iOS 创作版",
