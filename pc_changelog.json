@@ -1,5 +1,10 @@
 [
   {
+    "versionDate": "2023-06-19",
+    "versionName": "2.1.3",
+    "versionDes": "本次更新内容:\n- 修复雕刻异常问题"
+  },
+  {
     "versionDate": "2023-06-15",
     "versionName": "2.1.2",
     "versionDes": "本次更新内容:\n- 优化字体列表显示\n- 优化存储位置\n- 对象栅格化\n- 修复群组隐藏操作问题"
