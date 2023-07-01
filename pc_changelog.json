@@ -1,5 +1,10 @@
 [
   {
+    "versionDate": "2023-07-01",
+    "versionName": "2.1.4",
+    "versionDes": "本次更新内容:\n- 修复部分设备线条设置打印次数无效\n- 修复 offset 已知问题\n- 修复 2K 4K 打印位置不重合问题\n- 增加工程文件支持拖拽导入"
+  },
+  {
     "versionDate": "2023-06-19",
     "versionName": "2.1.3",
     "versionDes": "本次更新内容:\n- 修复雕刻异常问题"
