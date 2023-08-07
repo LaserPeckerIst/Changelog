@@ -1,7 +1,7 @@
 [
   {
-    "versionDate": "待定",
-    "versionName": "7.0.0.1",
-    "versionDes": "本次更新内容:\n暂无"
+    "versionDate": "2023-08-07",
+    "versionName": "7.0.0.9",
+    "versionDes": "本次更新内容:\n- 兼容Lightburn第三方软件\n- 兼容保护罩雕刻切割问题\n- 激光器气泵控制逻辑优化\n- 解决1064线条模式缺角问题\n- 解决多文件雕刻过程中切换文件移动的时候暂定 无法恢复和退出的问题"
   }
 ]
