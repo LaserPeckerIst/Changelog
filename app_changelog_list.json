@@ -21,7 +21,7 @@
     "qrCode": "/res/android_pro_net_code.png",
     "downloadUrl": "https://app.laserpecker.net/synopsis",
     "logo": "/res/logo_ds.png",
-    "des": "支持固件:\nLP4 650~699 6500~6599 \nLX1 700~799 7000~7999"
+    "des": "支持固件:\nLP1-Z-PRO 253~269 \nLP1-Z 271~299 \nLP2 316~349 360~369 376~399 \nLP3 5510~5510 5515~5599 \nLP4 650~699 6500~6599 \nLX1 700~799 7000~7999"
   },
   {
     "name": "iOS 社区版",
