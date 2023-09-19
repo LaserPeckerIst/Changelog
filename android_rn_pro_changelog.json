@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-9-18",
+    "versionName": "5.3.5",
+    "versionCode": 5354,
+    "versionDes": "本次更新内容:\n- 新增快捷操作\n- 新增图层雕刻进度提示\n- 新增等宽高分布\n- 新增pdf格式文件的图片形式打开\n- 新增旋转轴帮助文档\n- 优化部分操作体验\n- 修复默认dpi显示异常"
+  },
+  {
     "versionDate": "2023-8-27",
     "versionName": "5.3.4",
     "versionCode": 5342,
