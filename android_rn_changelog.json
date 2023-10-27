@@ -1,5 +1,10 @@
 [
   {
+    "versionDate": "2023-10-26",
+    "versionName": "4.3.4",
+    "versionDes": "本次更新内容:\n- 适配Android14相册权限"
+  },
+  {
     "versionDate": "2023-7-7",
     "versionName": "4.3.1",
     "versionDes": "本次更新内容:\n- 增加没有网络时的提示\n- 调整配色\n- 新增备用服务器调用"
