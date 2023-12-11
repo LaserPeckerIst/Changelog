@@ -1,5 +1,10 @@
 [
   {
+    "versionDate": "2023-12-6",
+    "versionName": "5.3.5",
+    "versionDes": "本次更新内容:\n- 通信模块重构\n- 雕刻UI界面重构\n- 多机型重适配\n- 修复已知bug"
+  },
+  {
     "versionDate": "2023-11-4",
     "versionName": "5.3.4",
     "versionDes": "本次更新内容:\n- LP2 兼容配件\n- 新增元素栅格化\n- LX1气泵适配\n- L3旋转轴滑台适配\n- 隐私政策更新\n- 新增Gcode预览\n- 新增2D浮雕\n- 工程文件支持增加 【雕刻参数支持】\n- 修改隐私政策\n- 修复bug"
