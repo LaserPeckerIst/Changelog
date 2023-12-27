@@ -1,5 +1,10 @@
 [
   {
+    "versionDate": "2023-12-22",
+    "versionName": "5.3.8",
+    "versionDes": "本次更新内容:\n- 材料测试矩阵\n- 2D浮雕\n- 新手引导\n- 修复抖动图打印额外线条\n- 修复已知bug"
+  },
+  {
     "versionDate": "2023-12-6",
     "versionName": "5.3.5",
     "versionDes": "本次更新内容:\n- 通信模块重构\n- 雕刻UI界面重构\n- 多机型重适配\n- 修复已知bug"

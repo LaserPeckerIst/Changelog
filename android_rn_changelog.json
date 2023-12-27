@@ -1,5 +1,10 @@
 [
   {
+    "versionDate": "2023-12-27",
+    "versionName": "4.3.6",
+    "versionDes": "本次更新内容:\n- 首页活动引导弹窗\n- 发帖lp2引导弹窗"
+  },
+  {
     "versionDate": "2023-10-26",
     "versionName": "4.3.4",
     "versionDes": "本次更新内容:\n- 适配Android14相册权限"
