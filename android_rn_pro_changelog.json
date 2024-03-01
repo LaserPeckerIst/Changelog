@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-2-29",
+    "versionName": "5.3.7",
+    "versionCode": 53715,
+    "versionDes": "本次更新内容:\n- 新增新手引导\n- LP4-655固件速度转换器\n- 新增过点延迟功能\n- 新增路径优化功能\n- 优化已知问题"
+  },
+  {
     "versionDate": "2023-10-13",
     "versionName": "5.3.6",
     "versionCode": 5368,
