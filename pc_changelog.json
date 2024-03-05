@@ -1,5 +1,10 @@
 [
   {
+    "versionDate": "2024-3-4",
+    "versionName": "2.5.4",
+    "versionDes": "本次更新内容:\n- 修复线条数据偏移的问题\n- 增加文本提示"
+  },
+  {
     "versionDate": "2024-3-1",
     "versionName": "2.5.3",
     "versionDes": "本次更新内容:\n- LP4-655固件速度转换器\n- 新增过点延迟功能\n- 新增路径优化功能\n- 新增固件升降级\n- 优化已知问题"
