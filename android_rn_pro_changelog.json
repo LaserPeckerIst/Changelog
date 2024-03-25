@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-3-22",
+    "versionName": "5.4.1",
+    "versionCode": 54104,
+    "versionDes": "本次更新内容\n- 新增速度转换提示气泡\n- 新增固件升级, 超时检测弹窗\n- 外部导入图片元素默认抖动算法处理\n- 雕刻图层默认显示所有元素\n- 切割数据使用紫色渲染`0xFFE040FB`\n- 更新`App更新弹窗样式`\n- 更新`Android App更新跳转逻辑`(国内统一跳转官网, 国外统一跳转Google Play)\n- 优化已知问题"
+  },
+  {
     "versionDate": "2024-2-29",
     "versionName": "5.3.7",
     "versionCode": 53715,
