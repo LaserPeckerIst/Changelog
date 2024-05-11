@@ -1,5 +1,10 @@
 [
   {
+    "versionDate": "2024-5-11",
+    "versionName": "5.4.4",
+    "versionDes": "本次更新内容\n- 修复已知bug"
+  },
+  {
     "versionDate": "2024-4-8",
     "versionName": "5.4.2",
     "versionDes": "本次更新内容\n- 新增新速度转换器\n- 推荐参数优化\n- 优化偏移功能\n- 修复已知bug"
